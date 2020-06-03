@@ -3,7 +3,7 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": "https://ex-7gc.jon-a-graybill.rn-starter.exp.direct",
-  "packagerNgrokUrl": "https://packager.ex-7gc.jon-a-graybill.rn-starter.exp.direct",
-  "ngrokPid": 48134
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }

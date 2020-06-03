@@ -69,7 +69,6 @@ const SquareScreen = () => {
 
     <View style={{ height: 150, width: 150, backgroundColor: `rgb(${red},${green},${blue})`}} />
 
-
     {/* useState hook */}
     {/* <ColorCounter
       onIncrease={() => setColor('red', COLOR_INCREMENT)}
